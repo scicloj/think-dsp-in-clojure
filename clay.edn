@@ -1,0 +1,5 @@
+{:remote-repo {:git-url "https://github.com/scicloj/think-dsp-in-clojure"
+               :branch "main"}
+ :quarto {:format {:html {:theme [:cosmo "notebooks/custom.scss"]}}
+          :fontsize "0.9em"}
+ :base-target-path "temp"}
